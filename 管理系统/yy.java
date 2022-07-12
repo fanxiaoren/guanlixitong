@@ -29,12 +29,12 @@ public class yy {
 //        } catch (IOException e) {
 //            e.printStackTrace();
 //        }
-//        File f=new File("C:\\Users\\范孝忍\\Desktop\\bgm.wma");
-//        URL cb=f.toURL();
-//        AudioClip aau= Applet.newAudioClip(cb);
-//        while (true){
-//            aau.loop();
-//        }
+        File f=new File("C:\\Users\\范孝忍\\Desktop\\bgm.wma");
+        URL cb=f.toURL();
+        AudioClip aau= Applet.newAudioClip(cb);
+        while (true){
+            aau.loop();
+        }
 
 
         FileInputStream fl=new FileInputStream("C:\\Users\\范孝忍\\Desktop\\黄霄雲星辰大海.wav");
