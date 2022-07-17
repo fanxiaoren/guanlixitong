@@ -22,6 +22,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -32,6 +33,9 @@
       <option name="presentableId" value="Default" />
       <updated>1657629451179</updated>
       <workItem from="1657629456013" duration="22000" />
+      <workItem from="1657629700131" duration="64000" />
+      <workItem from="1657630511341" duration="57000" />
+      <workItem from="1657630660590" duration="70000" />
     </task>
     <servers />
   </component>
